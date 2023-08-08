@@ -1,0 +1,13 @@
+# .gitignore file
+
+sites/default/files
+
+sites/default/settings.php
+
+modules/contrib
+
+themes/contrib
+
+profiles/contrib
+
+vendor

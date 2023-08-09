@@ -11,3 +11,4 @@ themes/contrib
 profiles/contrib
 
 vendor
+/example.gitignore

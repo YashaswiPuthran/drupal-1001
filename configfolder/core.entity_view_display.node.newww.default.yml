@@ -1,0 +1,28 @@
+uuid: a8ac82df-da8d-45a3-a1a4-142a9a724313
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.newww.body
+    - node.type.newww
+  module:
+    - text
+    - user
+id: node.newww.default
+targetEntityType: node
+bundle: newww
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }

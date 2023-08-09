@@ -1,0 +1,23 @@
+uuid: 75189b6b-17f2-4c72-b767-f7a8d2540cd9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.newww
+  module:
+    - text
+id: node.newww.body
+field_name: body
+entity_type: node
+bundle: newww
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

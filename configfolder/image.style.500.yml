@@ -1,0 +1,7 @@
+uuid: 4ba65fba-9314-4968-aff7-3fda13f35f9b
+langcode: en
+status: true
+dependencies: {  }
+name: '500'
+label: '500*500'
+effects: {  }
